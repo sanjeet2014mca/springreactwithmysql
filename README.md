@@ -29,7 +29,7 @@ https://yarnpkg.com/en/docs/install#windows-stable
 
 5.check yarn --version & npm --version 
 if it will show the version of NPM & Yarn 
-
+in case if u will miss to install NPM then inside folder u have to type $npm install
 then run :$yarn run dev-server
 
 Note:For more clarification follow below link 
